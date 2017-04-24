@@ -1,0 +1,6 @@
+NumberOfPreferredNeighbors 2
+UnchokingInterval 5
+OptimisticUnchokingInterval 15
+FileName CN.pdf
+FileSize 10013816
+PieceSize 1000000
